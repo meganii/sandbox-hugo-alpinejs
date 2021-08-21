@@ -1,4 +1,4 @@
-baseURL = "https://sandbox-hugo-alpinejs.pages.dev/"
+baseURL = "https://sandbox-hugo-turbo.pages.dev/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
