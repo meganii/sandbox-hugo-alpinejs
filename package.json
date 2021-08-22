@@ -1,19 +1,19 @@
 {
-  "name": "sandbox-hugo-alpinejs",
+  "name": "sandbox-hugo-turbo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample site for Hugo with @Hotwired/turbo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/meganii/sandbox-hugo-alpinejs.git"
+    "url": "git+ssh://git@github.com/meganii/sandbox-hugo-turbo.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "meganii",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meganii/sandbox-hugo-alpinejs/issues"
+    "url": "https://github.com/meganii/sandbox-hugo-turbo/issues"
   },
-  "homepage": "https://github.com/meganii/sandbox-hugo-alpinejs#readme"
+  "homepage": "https://github.com/meganii/sandbox-hugo-turbo#readme"
 }
