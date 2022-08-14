@@ -2,5 +2,7 @@ github.com/meganii/hugo-mod-turbo v0.0.0-20210821123522-d196efa27e16 h1:BnnHKR/I
 github.com/meganii/hugo-mod-turbo v0.0.0-20210821123522-d196efa27e16/go.mod h1:YXETZ4S10ilsWqmTBNUew7iElYCEgga9o3fz52HdUns=
 github.com/meganii/hugo-mod-turbo v0.0.0-20210821132059-586e1f384634 h1:etM3VC/B6QjRpIlEnkjKMulIpnG3pm5arlLXa/83sug=
 github.com/meganii/hugo-mod-turbo v0.0.0-20210821132059-586e1f384634/go.mod h1:YXETZ4S10ilsWqmTBNUew7iElYCEgga9o3fz52HdUns=
+github.com/meganii/hugo-mod-turbo v0.0.0-20220814063442-85480726f300 h1:QeXWnidLnsbLUS11nUJAm+GaloZSPcxE+IrsMQroTB8=
+github.com/meganii/hugo-mod-turbo v0.0.0-20220814063442-85480726f300/go.mod h1:YXETZ4S10ilsWqmTBNUew7iElYCEgga9o3fz52HdUns=
 github.com/spf13/hyde v1.1.0 h1:ZKOakmybNrsaUQCZsf/XwwGIp6NHjUuU3klBgVuoees=
 github.com/spf13/hyde v1.1.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
